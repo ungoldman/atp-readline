@@ -1,0 +1,8 @@
+# Dependency directories
+node_modules/
+
+# environment variable files
+.env
+
+# ignore build artifact
+index.js
